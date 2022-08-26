@@ -1,0 +1,149 @@
+
+body {
+    margin: 0;
+}
+
+main {
+    height: 1120px;
+    background: white;
+}
+
+.header {
+    height: 700px;
+}
+
+.waves {
+    max-height: 701px ;
+    width: 100%;
+}
+
+.title {
+    position: absolute;
+    top: 352px;
+    left: 72px;
+    font-weight: 300px;
+    font-size: 72px;
+    color:white;
+    line-height: 68px;
+    max-width: 614px;
+    font-family: 'NEXT Pan Book';
+    font-style: normal;
+}
+.text-content {
+    position: absolute;
+    top: 538px;
+    left: 63px;
+    font-weight: 300px;
+    font-size: 50px;
+    color:white;
+    line-height: 55px;
+    max-width: 981px;
+}
+.nav {
+    position: absolute;
+    top: 40px;
+    right: 40px;
+}
+.nav a {
+    color: white;
+    padding-right: 30px;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;  
+}
+.scroll{
+  position: absolute;
+  top: 575px;
+  right: 73px;
+}
+
+.main-block-1 {
+    max-width: 1200pX;
+    height: 1000px;
+    margin-left: 65px;
+    margin-top: 65px;
+}
+.main-block-2 {
+    max-width: 1200pX;
+    height: 716px;
+    margin-left: 65px;
+}
+.main-small-title {
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;  
+    margin-bottom: 15px;
+    border-top: 1px solid #F77A5A;;
+    padding-top: 5px;
+    color: #F77A5A;
+    
+}
+.main-title {
+  font-family: 'NEXT Pan Book';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 50px;
+  line-height: 110%;
+  max-width: 614px;
+  color: #4A4A4A;
+  margin-bottom: 30px;
+  margin-top: 15px;
+}
+.main-title span {
+    color:#F77A5A;
+}
+
+.main-text-1 {
+    color: #858585;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    margin-bottom: 30px;
+    max-width: 532px;
+}
+.main-text-2 {
+   font-family: 'Graphik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 140%;
+   color: #4A4A4A;
+   margin-top: 22px;
+}
+
+.main-text-3 {
+   font-family: 'Graphik';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 140%;
+   color: #858585;
+ }
+ .container {
+    max-width: 810px;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 70px;
+ }
+ .first-block {
+    max-width: 338px;
+    margin-right: 133px;
+ }
+ .second-block {
+    max-width: 338px;
+ }
+
+ .text-content {
+    font-family: 'Graphik';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+ }
